@@ -12,7 +12,9 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:padding="10dp"
-        tools:context="mx.iteso.sesion5tarea.ActivityMain">
+        tools:context="mx.iteso.sesion5tarea.ActivityMain"
+        >
+
 
 
         <EditText
