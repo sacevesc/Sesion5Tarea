@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_0">0dp</dimen>
+    <dimen name="dimen_pad_1">1dp</dimen>
+
+    <dimen name="dimen_pad_2">2dp</dimen>
+    <dimen name="dimen_pad_5">5dp</dimen>
+    <dimen name="dimen_pad_10">10dp</dimen>
+    <dimen name="dimen_pad_15">15dp</dimen>
+    <dimen name="dimen_pad_20">20dp</dimen>
+
+    <dimen name="dimen_text_1">1sp</dimen>
+    <dimen name="dimen_text_2">2sp</dimen>
+    <dimen name="dimen_text_5">5sp</dimen>
+    <dimen name="dimen_text_10">10sp</dimen>
+    <dimen name="dimen_text_15">15sp</dimen>
+    <dimen name="dimen_text_20">20sp</dimen>
+
+</resources>

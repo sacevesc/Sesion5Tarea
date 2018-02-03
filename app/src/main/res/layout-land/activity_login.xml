@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+   >
+
+    <ImageView
+        android:id="@+id/iteso"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/login_name"
+        android:padding="@dimen/dimen_pad_5"
+        android:src="@drawable/logo_iteso" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2 de Febrero del 2018"
+        android:layout_alignParentRight="true"
+        android:textStyle="bold"
+        android:textColor="@color/colorAzul"
+        android:padding="@dimen/dimen_pad_5"/>
+
+    <TextView
+        android:id="@+id/login_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/login_name"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/login_button"
+        android:textColor="@color/colorAzul"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorVerde"
+        android:text="@string/login_continue"
+        android:onClick="goToActivityMain"
+        android:pointerIcon="arrow"/>
+
+</RelativeLayout>

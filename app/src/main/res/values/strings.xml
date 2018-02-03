@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Sesion5 - Tarea</string>
+    <string name="data_A">Llene el campo Nombre</string>
+    <string name="data_B">Llene el campo Telefono</string>
+    <string name="data_D">Llene el campo Nombre, Telefono</string>
+    <string name="login_continue">Tarea 1</string>
+    <string name="login_name">Sebastián Aceves - is702810</string>
+
+
+    <string name="activity_main_escolaridad">Escolaridad</string>
+    <string-array name="activity_main_spinner">
+        <item>"Doctorado"</item>
+        <item>"Maestría"</item>
+        <item>"Licenciatura"</item>
+        <item>"Técnico"</item>
+        <item >"Bachillerato"</item>
+     </string-array>
+    <string name="activity_main_genero">Género</string>
+    <string name="activity_main_femenino">Femenino</string>
+    <string name="activity_main_masculino">Masculino</string>
+    <string name="activity_main_libro">Libro Favorito</string>
+    <string name="activity_main_fav">Escribe tu libro favorito...</string>
+    <string name="activity_main_deporte">Practica Deporte</string>
+    <string name="dialog_clean">¿Quieres borrar la pantalla?</string>
+
+    <string-array name="libros">
+        <item>Game of Thrones</item>
+        <item>El aleph</item>
+        <item>Lord of the Rings</item>
+        <item>100 años de soledad</item>
+        <item>Pedro Paramo</item>
+        <item>La divina comedia</item>
+        <item>La espada en la piedra</item>
+        <item>La historia sin fin</item>
+    </string-array>
+
+
+</resources>
